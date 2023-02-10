@@ -1,17 +1,49 @@
 
 .imagen {
-    width: 18%;
+    width: 60%;
     display: block;
     margin: auto;
-    padding-top: 4rem ;
+    padding-top: 1rem ;
    
 }
 
 .texto {
-    width: 18%;
+    width: 90%;
     display: block;
     margin: auto;
     padding-top: 1rem;
+    font-size: 1.4rem;
     
 }
+
+.tarjeta {
+    width: 40%;
+    height: 60rem;
+    background-color: #f87d7d ;
+    padding: 2rem 3rem;
+    border: 5px solid rgb(249, 249, 254);
+    margin-left: 32%;
+}
+
+.boton-{
+    width: 4rem;
+    height: 3rem;
+    font-size: 7rem;
+    margin-left: 16rem;
+    border: 0;
+    
+    
+}
+
+.boton{
+    text-decoration: none;
+    color: #CB1806 
+}
+
+.text2{
+    margin-top: 6rem;
+    margin-left: 10rem;
+}
+
+
 
